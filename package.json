@@ -32,7 +32,7 @@
     "ccxt": "^1.61.93",
     "child_process": "^1.0.2",
     "discord-api-types": "^0.25.2",
-    "discord.js": "^13.3.1",
+    "discord.js": "^13.6.0",
     "dotenv": "8.2.0",
     "dotenv-expand": "5.1.0",
     "electron-updater": "^4.6.1",
